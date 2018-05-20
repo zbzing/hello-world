@@ -1,2 +1,1 @@
-# hello-world
-My first repository
+在这里我将开启我的GitHub之旅！
